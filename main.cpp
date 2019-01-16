@@ -1,4 +1,6 @@
 #include <iostream>
+#include "Clarifier.h"
+
 
 using namespace std;
 
