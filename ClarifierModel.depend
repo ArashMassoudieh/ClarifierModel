@@ -2,3 +2,161 @@
 1545349039 source:/home/arash/Projects/ClarifierModel/main.cpp
 	<iostream>
 
+1545349039 source:/home/arash/Projects/ClarifierModel/ClarifierModel/main.cpp
+	<iostream>
+
+1545351584 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/Clarifier.cpp
+	"Clarifier.h"
+
+1545351623 /home/arash/Projects/ClarifierModel/ClarifierModel/include/Clarifier.h
+	<vector>
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/BTC.cpp
+	"BTC.h"
+	"math.h"
+	"string.h"
+	<iostream>
+	<fstream>
+	"Expression.h"
+	"NormalDist.h"
+	"qfile.h"
+	"qdatastream.h"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/BTC.h
+	<map>
+	<string>
+	<vector>
+	"QuickSort.h"
+	"NormalDist.h"
+	"qlist.h"
+	"qmap.h"
+	"qvariant.h"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/QuickSort.h
+	<vector>
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/NormalDist.h
+	"Vector.h"
+	"Matrix.h"
+	"NormalDist.h"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/Vector.h
+	<iostream>
+	<vector>
+	"QuickSort.h"
+	"armadillo"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/Matrix.h
+	<vector>
+	<iostream>
+	<math.h>
+	"armadillo"
+	<QMap>
+	"Matrix_arma.h"
+	"Vector_arma.h"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/Matrix_arma.h
+	"Vector_arma.h"
+	<iostream>
+	<math.h>
+	"armadillo"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/Vector_arma.h
+	<iostream>
+	<vector>
+	"armadillo"
+
+1537590293 /home/arash/Projects/ClarifierModel/ClarifierModel/include/Expression.h
+	<string>
+	<vector>
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/BTCSet.cpp
+	"BTCSet.h"
+	"string.h"
+	<fstream>
+	"StringOP.h"
+	"DistributionNUnif.h"
+	<iostream>
+	"Vector.h"
+	"Matrix.h"
+	<omp.h>
+	"qdebug.h"
+	"qdatastream.h"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/BTCSet.h
+	"BTC.h"
+	<vector>
+	"Vector.h"
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/StringOP.h
+	<vector>
+	<string>
+	<sstream>
+
+1536281175 /home/arash/Projects/ClarifierModel/ClarifierModel/include/DistributionNUnif.h
+	<vector>
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/DistributionNUnif.cpp
+	"DistributionNUnif.h"
+	"math.h"
+	<stdlib.h>
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/Matrix.cpp
+	"Matrix.h"
+	"math.h"
+	<iostream>
+	"armadillo"
+	"StringOP.h"
+	"Vector.h"
+	"qstring.h"
+	"qmap.h"
+	"qvariant.h"
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/Matrix_arma.cpp
+	"Matrix_arma.h"
+	"Vector_arma.h"
+	"math.h"
+	<iostream>
+	"armadillo"
+	<vector>
+	"Vector.h"
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/NormalDist.cpp
+	"Vector.h"
+	"Matrix.h"
+	"NormalDist.h"
+	<cstdlib>
+	"math.h"
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/QuickSort.cpp
+	"QuickSort.h"
+	<iostream>
+	<algorithm>
+	<vector>
+	"time.h"
+	"qdebug.h"
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/StringOP.cpp
+	"StringOP.h"
+	<string>
+	<iostream>
+	<fstream>
+	"math.h"
+	<algorithm>
+	"RxnNetwork.h"
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/Vector.cpp
+	"Vector.h"
+	"math.h"
+	"Matrix.h"
+	<cfloat>
+	"Vector_arma.h"
+
+1536281175 source:/home/arash/Projects/ClarifierModel/ClarifierModel/src/Vector_arma.cpp
+	"Vector_arma.h"
+	"math.h"
+	"Matrix_arma.h"
+	<cfloat>
+	"Vector.h"
+	"Expression.h"
+
