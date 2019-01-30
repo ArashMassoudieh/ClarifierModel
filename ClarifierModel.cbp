@@ -31,8 +31,36 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="include" />
 		</Compiler>
+		<Linker>
+			<Add option="-larmadillo" />
+			<Add option="-llapack" />
+			<Add option="-lblas" />
+		</Linker>
+		<Unit filename="include/BTC.h" />
+		<Unit filename="include/BTCSet.h" />
+		<Unit filename="include/Clarifier.h" />
+		<Unit filename="include/DistributionNUnif.h" />
+		<Unit filename="include/Matrix.h" />
+		<Unit filename="include/Matrix_arma.h" />
+		<Unit filename="include/NormalDist.h" />
+		<Unit filename="include/QuickSort.h" />
+		<Unit filename="include/StringOP.h" />
+		<Unit filename="include/Vector.h" />
+		<Unit filename="include/Vector_arma.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/BTC.cpp" />
+		<Unit filename="src/BTCSet.cpp" />
+		<Unit filename="src/Clarifier.cpp" />
+		<Unit filename="src/DistributionNUnif.cpp" />
+		<Unit filename="src/Matrix.cpp" />
+		<Unit filename="src/Matrix_arma.cpp" />
+		<Unit filename="src/NormalDist.cpp" />
+		<Unit filename="src/QuickSort.cpp" />
+		<Unit filename="src/StringOP.cpp" />
+		<Unit filename="src/Vector.cpp" />
+		<Unit filename="src/Vector_arma.cpp" />
 		<Extensions>
 			<envvars />
 			<code_completion />
