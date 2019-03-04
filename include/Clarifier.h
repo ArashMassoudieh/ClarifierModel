@@ -47,7 +47,9 @@ class Clarifier
         CVector_arma GetResidual(CVector_arma &X);
         double CD(const double &Re);
         void FillVprime_s();
-
+        double Residual_vs(int i, double vs);
+        double Residual_vs_grad(int i, double vs_star);
+        double Calculate_vs(int i);
 };
 
 #endif // CLARIFIER_H

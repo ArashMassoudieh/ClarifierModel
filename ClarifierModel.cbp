@@ -47,6 +47,7 @@
 		<Unit filename="include/NormalDist.h" />
 		<Unit filename="include/QuickSort.h" />
 		<Unit filename="include/StringOP.h" />
+		<Unit filename="include/Utilities.h" />
 		<Unit filename="include/Vector.h" />
 		<Unit filename="include/Vector_arma.h" />
 		<Unit filename="main.cpp" />
